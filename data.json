@@ -2,21 +2,25 @@
 	{
 		"name": "나무가",
 		"code": "190510",
-		"image": "https://www.namuga.co.kr/images/common/logo.png"
+		"image": "https://www.namuga.co.kr/images/common/logo.png",
+		"bought": 16060
 	},
 	{
 		"name": "넥스트칩",
 		"code": "396270",
-		"image": "https://www.nextchip.com/images/common/footer_logo.png"
+		"image": "https://www.nextchip.com/images/common/footer_logo.png",
+		"bought": 11594
 	},
 	{
 		"name": "제주반도체",
 		"code": "080220",
-		"image": "http://www.jeju-semi.com/kr/images/Img_logo.png"
+		"image": "http://www.jeju-semi.com/kr/images/Img_logo.png",
+		"bought": 5539
 	},
 	{
 		"name": "LG엔솔",
 		"code": "373220",
-		"image": "https://www.lgensol.com/assets/img/common/logo.svg"
+		"image": "https://www.lgensol.com/assets/img/common/logo.svg",
+		"bought": 582500
 	}
 ]
