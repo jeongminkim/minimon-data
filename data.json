@@ -15,12 +15,31 @@
 		"name": "제주반도체",
 		"code": "080220",
 		"image": "http://www.jeju-semi.com/kr/images/Img_logo.png",
-		"bought": 5539
+		"bought": 5470
 	},
 	{
 		"name": "LG엔솔",
 		"code": "373220",
 		"image": "https://www.lgensol.com/assets/img/common/logo.svg",
 		"bought": 582500
+	},
+	{
+		"name": "삼성전자",
+		"code": "005930",
+		"image": "https://www.samsung.com/sec/static/_images/common/logo_samsung_black.svg",
+		"bought": 65416
+	},
+	{
+		"name": "셀바스AI",
+		"code": "108860",
+		"image": "https://cdn.imweb.me/thumbnail/20230327/34ad5f8c7e595.png",
+		"bought": 19920
+	},
+	{
+		"name": "에코프로비엠",
+		"code": "247540",
+		"image": "https://www.ecoprobm.co.kr/images/korean/contents/ecoprobm.png",
+		"bought": 264375
 	}
+
 ]
