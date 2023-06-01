@@ -1,27 +1,15 @@
 [
 	{
-		"name": "나무가",
-		"code": "190510",
-		"image": "https://www.namuga.co.kr/images/common/logo.png",
-		"bought": 16060
-	},
-	{
-		"name": "LG엔솔",
-		"code": "373220",
-		"image": "https://www.lgensol.com/assets/img/common/logo.svg",
-		"bought": 582500
-	},
-	{
 		"name": "에코프로비엠",
 		"code": "247540",
 		"image": "https://www.ecoprobm.co.kr/images/korean/contents/ecoprobm.png",
-		"bought": 261250
+		"bought": 248954
 	},
 	{
 		"name": "DYPNF",
 		"code": "104460",
 		"image": "https://www.dypnf.com/assets/main/images/common/logo_top_white.svg",
-		"bought": 23160
+		"bought": 20437
 	}
 
 ]
