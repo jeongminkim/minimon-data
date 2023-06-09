@@ -1,9 +1,9 @@
 [
 	{
-		"name": "골드앤에스",
-		"code": "035290",
-		"image": "http://www.goldns.co.kr/images/common/logo-over.png",
-		"bought": 1971
+		"name": "나노신소재",
+		"code": "121600",
+		"image": "http://www.newsprime.co.kr//data/photos/cdn/20220939/art_580423_1664148940.png",
+		"bought": 141566
 	},
 	{
 		"name": "SK이노베이션",
@@ -15,7 +15,7 @@
 		"name": "네이처셀",
 		"code": "007390",
 		"image": "https://www.naturecell.co.kr/wp-content/uploads/2020/02/naturecell-logo-cl_200.png",
-		"bought": 10134
+		"bought": 10074
 	},
 	{
 		"name": "뉴로메카",
@@ -24,9 +24,9 @@
 		"bought": 38897
 	},
 	{
-		"name": "아모그린텍",
-		"code": "125210",
-		"image": "http://www.amogreentech.co.kr/wp/wp-content/uploads/2020/01/%EA%B7%B8%EB%A6%B0%ED%85%8D-140.png",
-		"bought": 15876
+		"name": "나무가",
+		"code": "190510",
+		"image": "https://www.namuga.co.kr/images/common/logo.png",
+		"bought": 16183
 	}
 ]
