@@ -33,18 +33,18 @@
 		"name": "현대백화점",
 		"code": "069960",
 		"image": "https://www.ehyundai.com/gate/p/images/logo_thyundai.png",
-		"bought": 51900
+		"bought": 82200
 	},
 	{
 		"name": "삼성전자우",
 		"code": "005935",
 		"image": "https://www.samsung.com/sec/static/_images/gnb/logo-gnb.svg",
-		"bought": 61200
+		"bought": 73400
 	},
 	{
 		"name": "대우건설",
 		"code": "047040",
 		"image": "https://www.daewooenc.com/Resources/Kor/images/common/footer_logo.png",
-		"bought": 5000
+		"bought": 28229
 	}
 ]
